@@ -1,0 +1,13 @@
+{
+  "name": "resend",
+  "description": "Resend email platform integration. Send transactional and batch email, receive inbound email securely, build React Email templates, run the Resend CLI, and follow deliverability best practices — directly from Grok.",
+  "category": "productivity",
+  "source": {
+    "source": "url",
+    "url": "https://github.com/resend/grok-plugin.git",
+    "sha": "REPLACE_WITH_40_CHAR_COMMIT_SHA"
+  },
+  "homepage": "https://github.com/resend/grok-plugin",
+  "keywords": ["resend", "email", "send email", "react email"],
+  "domains": ["resend.com"]
+}
